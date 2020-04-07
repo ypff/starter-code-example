@@ -6,5 +6,5 @@
 
 
 ## Classwork and Homework
-* colab link
+* Lecture01-PY4E-Chap1
 
